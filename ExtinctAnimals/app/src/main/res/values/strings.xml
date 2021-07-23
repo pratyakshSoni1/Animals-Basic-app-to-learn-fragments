@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Animals</string>
+    <string name="fragment_main_label">Extinct Animals</string>
+    <string name="fragment_details_label">Details</string>
+
+    <string name="animal1">Sabre toothed cat</string>
+    <string name="animal2">Woolly Mammoth</string>
+    <string name="animal3">Dodo Bird</string>
+    <string name="animal4">Passenger pigeon</string>
+    <string name="animal5">Giant Tapir</string>
+    <string name="animal6">Tasmanian tiger</string>
+
+    <!--DATA ABOUT THEM -->
+
+    <string name="animal1data">Also called sabre-toothed tiger or sabre-toothed lion  Named for the pair of elongated bladelike canine teeth in their upper jaw,They existed 56 million to 11,700 years ago and roamed North America and Europe throughout the Miocene and Pliocene epochs (23 million to 2.6 million years ago). By Pliocene times, they had spread to Asia and Africa. Its reliance on large animals has been proposed as the cause of its extinction, along with climate change and competition with other species, but the exact cause is unknown!</string>
+
+
+    <string name="animal2data">The woolly mammoth (Mammuthus primigenius) is a species of mammoth that lived during the Pleistocene until its extinction in the Holocene epoch. It was one of the last in a line of mammoth species, beginning with Mammuthus subplanifrons in the early Pliocene. The woolly mammoth began to diverge from the steppe mammoth about 800,000 years ago in East Asia. Its closest extant relative is the Asian elephant.
+Most woolly mammoths went extinct roughly 10,000 years ago amid a warming climate and widespread human hunting.</string>
+
+
+    <string name="animal3data">The dodo is an extinct flightless bird that was endemic to the island of Mauritius, east of Madagascar in the Indian Ocean . It\'s closest genetic relative was the also-extinct Rodrigues solitaire Dutch sailors probably first encountered the bird in 1598, marking the beginning of the end for the species. The problem was more likely the ship rats and other animals they brought with them, which spread across the island, eating dodo eggs and outcompeting the birds for food. The last confirmed sightings came in the 1660s. The dodo was lost forever.</string>
+
+
+    <string name="animal4data">The passenger pigeon or wild pigeon (Ectopistes migratorius) is an extinct species of pigeon that was endemic to North America , were hunted by Native Americans, but hunting intensified after the arrival of Europeans, particularly in the 19th century. People ate passenger pigeons in huge amounts, but they were also killed because they were perceived as a threat to agriculture. As Europeans migrated across North America, they eliminated the large forests that destroyed it’s habitat . The last confirmed wild bird is thought to have been shot in 1901 .</string>
+
+
+    <string name="animal5data">The giant tapir (Tapirus augustus)[3][4][5] is an extinct species of tapir that lived in southern China .
+The cause of their extinctionis is mostly due to habitat destruction and poaching
+    </string>
+
+
+    <string name="animal6data">Tasmanian tiger is an extinct carnivorous marsupial that was native to the Australian mainland and the islands of Tasmania and New Guinea. It was the largest known carnivorous marsupial in the world prior to its extinction, evolving about 2 million years ago. The last known live animal was captured in 1930 in Tasmania. It is commonly known as the Tasmanian tiger (because of its striped lower back. However, excessive hunting, combined with factors such as habitat destruction and introduced disease,the introduction of dogs, and human encroachment into its habitat caused them to extinct !
+    </string>
+
+
+
+</resources>

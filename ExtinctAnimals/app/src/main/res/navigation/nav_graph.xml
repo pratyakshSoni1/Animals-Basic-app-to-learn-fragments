@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/fragmentMain">
+
+    <fragment
+        android:id="@+id/fragmentMain"
+        android:name="com.smartphone_codes.extinctanimals.FragmentMain"
+        android:label="@string/fragment_main_label"
+        tools:layout="@layout/fragment_main">
+        <action
+            android:id="@+id/action_fragmentMain_to_fragmentDetails2"
+            app:destination="@id/fragmentDetails" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentDetails"
+        android:name="com.smartphone_codes.extinctanimals.FragmentDetails"
+        android:label="@string/fragment_details_label"
+        tools:layout="@layout/fragment_details">
+        <argument
+            android:name="image"
+            app:argType="integer" />
+        <argument
+            android:name="tittle"
+            app:argType="integer" />
+        <argument
+            android:name="detailstring"
+            app:argType="integer" />
+    </fragment>
+</navigation>
